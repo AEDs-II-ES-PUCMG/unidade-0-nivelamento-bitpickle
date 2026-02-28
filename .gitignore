@@ -36,3 +36,6 @@
 **/*.exe
 
 desktop.ini
+
+.metals
+.vscode
